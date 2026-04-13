@@ -13,3 +13,11 @@ select a.UserID, b.UserID, Gender, Race, Age, Province, Channel, RecordDate
 from `brighttv`.`tv`.`user_profiles` as a
 full outer join `brighttv`.`tv`.`viewerships` as b
 on a.UserID = b.UserID;
+
+--Checking the uniques Provinces
+select DISTINCT Province
+from `brighttv`.`tv`.`user_profiles`;
+
+--Checking the uniques channels
+select DISTINCT Channel
+from `brighttv`.`tv`.`viewerships`;
