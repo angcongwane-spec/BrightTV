@@ -14,6 +14,14 @@ from `brighttv`.`tv`.`user_profiles` as a
 full outer join `brighttv`.`tv`.`viewerships` as b
 on a.UserID = b.UserID;
 
+--Counting the number of rows on table user_profile to confirm any data loss from loading of data
+select count(*)
+from brighttv.tv.user_profiles;
+
+--Counting number of rows from table viewerships to confirm any data loss from loading of data
+select count (*)
+from brighttv.tv.viewerships;
+
 --Checking the uniques Provinces
 select DISTINCT Province
 from `brighttv`.`tv`.`user_profiles`;
