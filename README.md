@@ -10,7 +10,9 @@ To suggest the type of initiatives to further grow BrightTV ‘s User base.
 ## Tools used
 Miro for Gantt Chart timeline planning
 Miro for Flow Chart (Data and Information flow) to determine project structure
-* Databricks for SQL coding:
+
+Databricks for SQL coding:
+
 * Load datasets into workspace
 * Initial data exploration (row counts, schema, data types)
 * Identify data quality issues (nulls, duplicates, inconsistencies)
