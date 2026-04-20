@@ -37,6 +37,11 @@ Analysis and insight generation
 * Identify key trends and patterns
 * Start drafting insight summaries
 
+## Final insights formulated
+Targeted strategies centered on personalization, regional engagement, and data integrity will significantly boost retention and viewer satisfaction.
+
+
+
 Powerpoint: Visualization and storytelling
 
 * Create charts and visuals (Excel / PowerPoint)
