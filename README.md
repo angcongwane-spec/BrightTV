@@ -15,20 +15,28 @@ Miro for Flow Chart (Data and Information flow) to determine project structure
 * Initial data exploration (row counts, schema, data types)
 * Identify data quality issues (nulls, duplicates, inconsistencies)
 * Draft data cleaning approach
+
 Data cleaning:
+
 * Handle null values and missing data
 * Remove duplicates and fix inconsistencies
 * Standardize formats (dates, categories, naming)
+
 Data tranformation
+
 * Join datasets (user profiles, viewing data, channels, etc.)
 * Create derived columns (age buckets, engagement metrics)
 * Build structured dataset for analysis
+
 Analysis and insight generation
+
 * Write SQL queries to extract insights
 * Analyze user behavior, demographics, and channel performance
 * Identify key trends and patterns
 * Start drafting insight summaries
+
 Powerpoint: Visualization and storytelling
+
 * Create charts and visuals (Excel / PowerPoint)
 * Translate insights into business-friendly language
 * Build narrative (problem → analysis → insight → impact)
